@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/h2s-tech/static/css/main.4cc92a60.css",
-    "main.js": "/h2s-tech/static/js/main.1b60ca91.js",
+    "main.js": "/h2s-tech/static/js/main.62e71264.js",
     "static/js/453.809d2b2f.chunk.js": "/h2s-tech/static/js/453.809d2b2f.chunk.js",
     "static/media/banner bg.jpg": "/h2s-tech/static/media/banner bg.4181592d6f2e8e69c161.jpg",
     "static/media/logo-removebg-preview.png": "/h2s-tech/static/media/logo-removebg-preview.79c8597db2c4b9fda919.png",
     "static/media/banner left img.png": "/h2s-tech/static/media/banner left img.13deb35e61691b816b8e.png",
     "index.html": "/h2s-tech/index.html",
     "main.4cc92a60.css.map": "/h2s-tech/static/css/main.4cc92a60.css.map",
-    "main.1b60ca91.js.map": "/h2s-tech/static/js/main.1b60ca91.js.map",
+    "main.62e71264.js.map": "/h2s-tech/static/js/main.62e71264.js.map",
     "453.809d2b2f.chunk.js.map": "/h2s-tech/static/js/453.809d2b2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cc92a60.css",
-    "static/js/main.1b60ca91.js"
+    "static/js/main.62e71264.js"
   ]
 }
