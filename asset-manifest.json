@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Sandeep6268/h2s-tech.git/static/css/main.683e0b97.css",
+    "main.js": "/Sandeep6268/h2s-tech.git/static/js/main.d4ba9cae.js",
+    "static/js/453.809d2b2f.chunk.js": "/Sandeep6268/h2s-tech.git/static/js/453.809d2b2f.chunk.js",
+    "static/media/banner bg.jpg": "/Sandeep6268/h2s-tech.git/static/media/banner bg.4181592d6f2e8e69c161.jpg",
+    "static/media/logo-removebg-preview.png": "/Sandeep6268/h2s-tech.git/static/media/logo-removebg-preview.79c8597db2c4b9fda919.png",
+    "static/media/banner left img.png": "/Sandeep6268/h2s-tech.git/static/media/banner left img.13deb35e61691b816b8e.png",
+    "index.html": "/Sandeep6268/h2s-tech.git/index.html",
+    "main.683e0b97.css.map": "/Sandeep6268/h2s-tech.git/static/css/main.683e0b97.css.map",
+    "main.d4ba9cae.js.map": "/Sandeep6268/h2s-tech.git/static/js/main.d4ba9cae.js.map",
+    "453.809d2b2f.chunk.js.map": "/Sandeep6268/h2s-tech.git/static/js/453.809d2b2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.683e0b97.css",
+    "static/js/main.d4ba9cae.js"
+  ]
+}
